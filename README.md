@@ -79,7 +79,7 @@ Multi-role Laravel app (Admins, Companies, Job Seekers, Universities) with Sanct
 
 ## 🌐 Connect
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/jihadchaalan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
