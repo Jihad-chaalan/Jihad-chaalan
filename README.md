@@ -86,7 +86,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihad-chaalan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihadchaalan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-chaalan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" width="48%" />
 </p>
 
 <p align="center">
