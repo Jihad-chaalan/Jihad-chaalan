@@ -110,4 +110,7 @@
   <a href="https://linkedin.com/in/jihadchaalan" target="www.linkedin.com/jihadchaalan ">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+    <a href="mailto:chaalan2004@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" height="45" />
+  </a>
 </p>
