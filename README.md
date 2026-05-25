@@ -29,13 +29,11 @@
 ## 🧠 AI
 
 
-<div style="display:flex; gap:12px; align-items:center;">
-
-<img src="https://cdn.simpleicons.org/langchain/00A67E" width="45"/>
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/favicon.ico" width="45"/>
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45"/>
-
-</div>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/langchain/00A67E" width="45" height="45" />
+  <img src="https://img.icons8.com/fluency/48/workflow.png" width="45" height="45" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" height="45" />
+</p>
 
 - LangChain  
 - LangGraph  
