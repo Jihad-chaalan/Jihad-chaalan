@@ -28,8 +28,6 @@
 
 ## 🧠 AI
 
-## 🧠 AI
-
 <p align="left">
   <img 
     src="https://cdn.simpleicons.org/langchain/00A67E" 
