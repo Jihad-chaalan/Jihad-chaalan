@@ -70,13 +70,14 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-  <img 
+    <img 
     src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" 
     width="48" 
     height="48"
     alt="ChromaDB"
   />
+</p>
+
 
 - MySQL  
 - ChromaDB
