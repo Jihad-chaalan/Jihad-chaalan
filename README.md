@@ -75,11 +75,10 @@ Multi-role Laravel app (Admins, Companies, Job Seekers, Universities) with Sanct
 ## 📈 GitHub Stats
 
 <div align="center">
-
 ![Jihad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jihad-chaalan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihad-chaalan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
+ 
 </div>
 
 ---
