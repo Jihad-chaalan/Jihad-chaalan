@@ -28,25 +28,27 @@
 
 ## 🧠 AI
 
+## 🧠 AI
+
 <p align="left">
   <img 
     src="https://cdn.simpleicons.org/langchain/00A67E" 
-    width="35" 
-    height="35"
+    width="50" 
+    height="50"
     alt="LangChain"
   />
 
   <img 
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" 
-    width="35" 
-    height="35"
+    src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/favicon.ico" 
+    width="50" 
+    height="50"
     alt="LangGraph"
   />
 
   <img 
     src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" 
-    width="35" 
-    height="35"
+    width="50" 
+    height="50"
     alt="ChromaDB"
   />
 </p>
