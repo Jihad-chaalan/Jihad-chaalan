@@ -11,7 +11,7 @@
 
 - Learning AI Engineering
 - Building real deployable AI projects
-- Working with LLMs, RAG systems, and AI workflows
+- Working with LLMs, RAG systems, and AI Agents
 - Improving backend architecture & deployment skills
 
 ---
@@ -83,6 +83,12 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+  <img 
+    src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" 
+    width="48" 
+    height="48"
+    alt="ChromaDB"
+  />
 
 - MySQL  
 - ChromaDB
@@ -128,7 +134,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="www.linkedin.com/in/jihadchaalan ">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
