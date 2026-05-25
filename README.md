@@ -64,9 +64,6 @@
 
 ## 📌 Featured Projects
 
-### 🛒 Shilajit E-Commerce Platform
-Full Laravel + React e-commerce system with loyalty tiers, email campaigns, multilingual support (EN / AR / FR), RTL layout, and glassmorphism UI.
-
 ### 🎓 Internship Management System
 Multi-role Laravel app (Admins, Companies, Job Seekers, Universities) with Sanctum API authentication and React frontend.
 
