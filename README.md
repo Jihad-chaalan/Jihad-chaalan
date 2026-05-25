@@ -1,16 +1,134 @@
-## Hi there 👋
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress..."
+    alt="Typing SVG"
+  />
+</p>
 
-<!--
-**Jihad-chaalan/Jihad-chaalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning AI Engineering
+- Building real deployable AI projects
+- Working with LLMs, RAG systems, and AI workflows
+- Improving backend architecture & deployment skills
+
+---
+
+# 🧰 Tech Stack
+
+## 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,php" />
+</p>
+
+---
+
+## 🧠 AI
+
+<p align="left">
+  <img 
+    src="https://cdn.simpleicons.org/langchain/00A67E" 
+    width="48" 
+    height="48"
+    alt="LangChain"
+  />
+
+  <img 
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" 
+    width="48" 
+    height="48"
+    alt="LangGraph"
+  />
+
+  <img 
+    src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" 
+    width="48" 
+    height="48"
+    alt="ChromaDB"
+  />
+</p>
+
+- LangChain  
+- LangGraph  
+- ChromaDB
+
+---
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+- React.js
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel" />
+</p>
+
+- FastAPI  
+- Laravel
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL  
+- ChromaDB
+
+---
+
+## 🛠 Tools & Dev Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+
+  <img 
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith-color.png" 
+    width="48" 
+    height="48"
+    alt="LangSmith"
+  />
+</p>
+
+- LangSmith  
+- Docker  
+- Git  
+- GitHub
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
