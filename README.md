@@ -23,7 +23,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,php" />
 </p>
-
+- python
+- javascript
+- php
 ---
 
 ## 🧠 AI
