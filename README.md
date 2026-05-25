@@ -27,7 +27,7 @@
 - python
 - javascript
 - php
-- 
+  
 ---
 
 ## 🧠 AI
@@ -106,7 +106,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="www.linkedin.com/jihadchaalan ">
+  <a href="https://linkedin.com/in/jihadchaalan" target="www.linkedin.com/jihadchaalan ">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
