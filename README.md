@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadchaalan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihad-chaalan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="45%" />
 </p>
 
 ---
