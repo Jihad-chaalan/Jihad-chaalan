@@ -66,7 +66,7 @@
 
 ### 🎓 RAG Observatory
 RAG Observatory is a production‑ready, session‑isolated Retrieval‑Augmented Generation (RAG) system that lets users upload documents, chat with them, and visualise embeddings. Built with FastAPI, LangChain, PostgreSQL + pgvector, React (Vite), and Groq (via Cloudflare proxy). Deployed on DigitalOcean and Vercel.
-Live demo: https://rag-observatory.vercel.app
+<p align="center">👉 Live demo: https://rag-observatory.vercel.app</p>
 
 ### 🎓 Internship Management System
 Multi-role Laravel app (Admins, Companies, Job Seekers, Universities) with Sanctum API authentication and React frontend.
