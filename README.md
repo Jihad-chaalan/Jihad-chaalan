@@ -1,4 +1,4 @@
-<div align="center">
+<img width="224" height="224" alt="ClipWindowsGIF" src="https://github.com/user-attachments/assets/048d0965-4f30-4d17-838c-41ba0b9e5f74" /><div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jihad+Chaalan+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer+In+Progress..." alt="Typing SVG" />
 
@@ -64,9 +64,21 @@
 
 ## 📌 Featured Projects
 
-### 🎓 RAG Observatory
+
+###  RAG Observatory
 RAG Observatory is a production‑ready, session‑isolated Retrieval‑Augmented Generation (RAG) system that lets users upload documents, chat with them, and visualise embeddings. Built with FastAPI, LangChain, PostgreSQL + pgvector, React (Vite), and Groq (via Cloudflare proxy). Deployed on DigitalOcean and Vercel.
 <p align="center">👉 Live demo: https://rag-observatory.vercel.app</p>
+
+###  📰 AI News Agent
+An AI‑powered agent that fetches the latest AI news, summarizes it with Groq (Llama 3.3), and saves the summary to a Notion database. Built with LangGraph, Tavily Search, and a Gradio UI showing a step‑by‑step timeline.
+
+- **Search** – Tavily API for fresh, relevant AI news.
+- **Summarize** – Groq LLM (fast, free tier) generates bullet‑point summaries with source URLs.
+- **Webhook** – Saves each summary to a Notion database (subprocess isolation to avoid Windows SSL hangs).
+- **LangGraph** – Deterministic pipeline (search → summarize → webhook).
+- **UI** – Gradio app with a click‑to‑run button and real‑time timeline.
+
+👉 Code: https://github.com/Jihad-chaalan/ai-news-agent
 
 ### 🎓 Internship Management System
 Multi-role Laravel app (Admins, Companies, Job Seekers, Universities) with Sanctum API authentication and React frontend.
