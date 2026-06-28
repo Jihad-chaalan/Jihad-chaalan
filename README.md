@@ -63,6 +63,14 @@
 
 ## 📌 Featured Projects
 
+## 📄 Resume ATS Predictor
+An end-to-end MLOps project that simulates how an Applicant Tracking System (ATS) screens resumes. Trained from scratch on 6,000 resumes using XGBoost and deployed with a fully automated CI/CD pipeline to Hugging Face Spaces.
+Model: XGBoost (trained from scratch) with TF-IDF text features + engineered semantic similarity penalty.
+MLOps: GitHub Actions CI/CD pipeline with automated performance testing (accuracy & F1 gatekeepers).
+Explainability: Gradio UI with keyword gap analysis and semantic similarity visualization.
+Versioning: Git for code + model artifacts; MLflow for experiment tracking (parameters, metrics).
+Live Demo: huggingface.co/spaces/jiha-d/resume-ats-predictor
+👉 Code: github.com/Jihad-chaalan/resume-ats-predictor
 
 ###  RAG Observatory
 RAG Observatory is a production‑ready, session‑isolated Retrieval‑Augmented Generation (RAG) system that lets users upload documents, chat with them, and visualise embeddings. Built with FastAPI, LangChain, PostgreSQL + pgvector, React (Vite), and Groq (via Cloudflare proxy).
