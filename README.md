@@ -69,10 +69,11 @@ Model: XGBoost (trained from scratch) with TF-IDF text features + engineered sem
 MLOps: GitHub Actions CI/CD pipeline with automated performance testing (accuracy & F1 gatekeepers).
 Explainability: Gradio UI with keyword gap analysis and semantic similarity visualization.
 Versioning: Git for code + model artifacts; MLflow for experiment tracking (parameters, metrics).
-Live Demo: huggingface.co/spaces/jiha-d/resume-ats-predictor
-👉 Code: github.com/Jihad-chaalan/resume-ats-predictor
 
-###  RAG Observatory
+Live Demo: [huggingface.co/spaces/jiha-d/resume-ats-predictor](https://huggingface.co/spaces/jiha-d/resume-ats-predictor)
+
+
+###  🔍 RAG Observatory
 RAG Observatory is a production‑ready, session‑isolated Retrieval‑Augmented Generation (RAG) system that lets users upload documents, chat with them, and visualise embeddings. Built with FastAPI, LangChain, PostgreSQL + pgvector, React (Vite), and Groq (via Cloudflare proxy).
 👉 Code: https://github.com/Jihad-chaalan/rag-observatory
 
