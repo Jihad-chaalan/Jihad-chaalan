@@ -96,9 +96,11 @@ Multi-role Laravel app (Admins, Companies, Job Seekers, Universities) with Sanct
 ## 📈 GitHub Stats
 
 <div align="center">
+  
 <img src="https://streak-stats.demolab.com?user=Jihad-chaalan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jihad-chaalan&layout=compact&theme=tokyonight" />
+ 
 </div>
 ---
 
