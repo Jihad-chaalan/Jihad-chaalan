@@ -85,11 +85,6 @@ Versioning: Git for code + model artifacts; MLflow for experiment tracking (para
 
 Live Demo: [huggingface.co/spaces/jiha-d/resume-ats-predictor](https://huggingface.co/spaces/jiha-d/resume-ats-predictor)
 
-
-###  🔍 RAG Observatory
-RAG Observatory is a production‑ready, session‑isolated Retrieval‑Augmented Generation (RAG) system that lets users upload documents, chat with them, and visualise embeddings. Built with FastAPI, LangChain, PostgreSQL + pgvector, React (Vite), and Groq (via Cloudflare proxy).
-👉 Code: https://github.com/Jihad-chaalan/rag-observatory
-
 ###  📰 AI News Agent
 An AI‑powered agent that fetches the latest AI news, summarizes it with Groq (Llama 3.3), and saves the summary to a Notion database. Built with LangGraph, Tavily Search, and a Gradio UI showing a step‑by‑step timeline.
 
