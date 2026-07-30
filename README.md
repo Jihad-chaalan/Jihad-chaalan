@@ -63,6 +63,19 @@
 
 ## 📌 Featured Projects
 
+###  🏢 Enterprise RAG
+
+Secure Multi-Tenant Enterprise RAG — a production-style AI knowledge assistant that answers questions over internal enterprise documents using hybrid retrieval, cross-encoder reranking, and an AI security layer. Built with FastAPI, React (TypeScript + Vite), Qdrant Cloud, and Groq (Llama 3.3/3.1).
+
+Retrieval: Hybrid search combining Vector Search + BM25, merged with Reciprocal Rank Fusion (RRF) and refined with Cross-Encoder reranking for precision.
+Multi-Tenancy: Department and role-based document isolation enforced through Qdrant payload filtering and tenant-aware BM25 indexes.
+Security: LLM-based prompt injection, jailbreak, and cross-tenant access detection with full security event logging and an admin dashboard.
+Observability: Per-request latency breakdown, token usage tracking, and cost estimation across retrieval, reranking, and generation stages.
+DevOps: Dockerized backend/frontend, GitHub Actions CI with golden dataset validation, deployed on Heroku.
+
+👉 Live Demo: https://enterprise-rag-574f275953cb.herokuapp.com/
+👉 Code: https://github.com/Jihad-chaalan/secure-multitenant-rag
+
 ## 📄 Resume ATS Predictor
 An end-to-end MLOps project that simulates how an Applicant Tracking System (ATS) screens resumes. Trained from scratch on 6,000 resumes using XGBoost and deployed with a fully automated CI/CD pipeline to Hugging Face Spaces.
 Model: XGBoost (trained from scratch) with TF-IDF text features + engineered semantic similarity penalty.
