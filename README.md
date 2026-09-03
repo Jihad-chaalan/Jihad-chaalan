@@ -112,12 +112,6 @@ An end-to-end MLOps project that simulates how an Applicant Tracking System (ATS
 
 ---
 
-### 🎓 Internship Management System
-
-Multi-role Laravel app (Admins, Companies, Job Seekers, Universities) with Sanctum API authentication and React frontend.
-
-🔗 **Code:** [github.com/Jihad-chaalan/internship-management-system](https://github.com/Jihad-chaalan/internship-management-system)
----
 
 ## 📈 GitHub Stats
 
