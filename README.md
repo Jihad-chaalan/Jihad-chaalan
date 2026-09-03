@@ -63,42 +63,60 @@
 
 ## 📌 Featured Projects
 
-###  🏢 Enterprise RAG
+### 📰 AI Daily News
+
+A fully automated AI news platform that researches, ranks, summarises, illustrates, and publishes the **5 most important AI stories every day** at 8 PM. Built with **LangGraph**, **Next.js**, and **Supabase**.
+
+- **Orchestration** – LangGraph agentic workflow (research → dedupe → rank → summary → image → validate → publish).
+- **Research** – Fetches from multiple news APIs (APITube, NewsData.io) with AI‑related keywords.
+- **Deduplication** – Semantic clustering using sentence‑transformers + cosine similarity.
+- **Ranking** – LLM‑based scoring (Groq) on impact, novelty, and audience interest.
+- **Summarisation** – AI‑generated summary, "why it matters", and 3 key points per story.
+- **Image Generation** – Cloudflare Workers AI (with Pollinations.ai fallback) + Supabase Storage.
+- **Publishing** – Website (Next.js) + Telegram (separate messages with clickable sources).
+- **7‑Day Retention** – Automatic cleanup of old briefings and images.
+- **Admin Panel** – Full CRUD with image upload, protected by `iron‑session`.
+
+🌐 **Website:** [ai-daily-news.vercel.app](https://ai-daily-news.vercel.app)  
+📱 **Telegram:** [Join our group](https://t.me/+R6JQYLw8FbNlYmE0)  
+🔗 **Code:** [github.com/Jihad-chaalan/ai-news](https://github.com/Jihad-chaalan/ai-news)
+
+---
+
+### 🏢 Enterprise RAG
 
 Secure Multi-Tenant Enterprise RAG — a production-style AI knowledge assistant that answers questions over internal enterprise documents using hybrid retrieval, cross-encoder reranking, and an AI security layer. Built with FastAPI, React (TypeScript + Vite), Qdrant Cloud, and Groq (Llama 3.3/3.1).
 
-Retrieval: Hybrid search combining Vector Search + BM25, merged with Reciprocal Rank Fusion (RRF) and refined with Cross-Encoder reranking for precision.
-Multi-Tenancy: Department and role-based document isolation enforced through Qdrant payload filtering and tenant-aware BM25 indexes.
-Security: LLM-based prompt injection, jailbreak, and cross-tenant access detection with full security event logging and an admin dashboard.
-Observability: Per-request latency breakdown, token usage tracking, and cost estimation across retrieval, reranking, and generation stages.
-DevOps: Dockerized backend/frontend, GitHub Actions CI with golden dataset validation, deployed on Heroku.
+- **Retrieval:** Hybrid search combining Vector Search + BM25, merged with Reciprocal Rank Fusion (RRF) and refined with Cross-Encoder reranking for precision.
+- **Multi-Tenancy:** Department and role-based document isolation enforced through Qdrant payload filtering and tenant-aware BM25 indexes.
+- **Security:** LLM-based prompt injection, jailbreak, and cross-tenant access detection with full security event logging and an admin dashboard.
+- **Observability:** Per-request latency breakdown, token usage tracking, and cost estimation across retrieval, reranking, and generation stages.
+- **DevOps:** Dockerized backend/frontend, GitHub Actions CI with golden dataset validation, deployed on Heroku.
 
-👉 Live Demo: https://enterprise-rag-574f275953cb.herokuapp.com/
-👉 Code: https://github.com/Jihad-chaalan/secure-multitenant-rag
+👉 **Live Demo:** [enterprise-rag-574f275953cb.herokuapp.com](https://enterprise-rag-574f275953cb.herokuapp.com/)  
+🔗 **Code:** [github.com/Jihad-chaalan/secure-multitenant-rag](https://github.com/Jihad-chaalan/secure-multitenant-rag)
 
-## 📄 Resume ATS Predictor
+---
+
+### 📄 Resume ATS Predictor
+
 An end-to-end MLOps project that simulates how an Applicant Tracking System (ATS) screens resumes. Trained from scratch on 6,000 resumes using XGBoost and deployed with a fully automated CI/CD pipeline to Hugging Face Spaces.
-Model: XGBoost (trained from scratch) with TF-IDF text features + engineered semantic similarity penalty.
-MLOps: GitHub Actions CI/CD pipeline with automated performance testing (accuracy & F1 gatekeepers).
-Explainability: Gradio UI with keyword gap analysis and semantic similarity visualization.
-Versioning: Git for code + model artifacts; MLflow for experiment tracking (parameters, metrics).
 
-Live Demo: [huggingface.co/spaces/jiha-d/resume-ats-predictor](https://huggingface.co/spaces/jiha-d/resume-ats-predictor)
+- **Model:** XGBoost (trained from scratch) with TF-IDF text features + engineered semantic similarity penalty.
+- **MLOps:** GitHub Actions CI/CD pipeline with automated performance testing (accuracy & F1 gatekeepers).
+- **Explainability:** Gradio UI with keyword gap analysis and semantic similarity visualization.
+- **Versioning:** Git for code + model artifacts; MLflow for experiment tracking (parameters, metrics).
 
-###  📰 AI News Agent
-An AI‑powered agent that fetches the latest AI news, summarizes it with Groq (Llama 3.3), and saves the summary to a Notion database. Built with LangGraph, Tavily Search, and a Gradio UI showing a step‑by‑step timeline.
+🌐 **Live Demo:** [huggingface.co/spaces/jiha-d/resume-ats-predictor](https://huggingface.co/spaces/jiha-d/resume-ats-predictor)  
+🔗 **Code:** [github.com/Jihad-chaalan/resume-ats-predictor](https://github.com/Jihad-chaalan/resume-ats-predictor)
 
-- **Search** – Tavily API for fresh, relevant AI news.
-- **Summarize** – Groq LLM (fast, free tier) generates bullet‑point summaries with source URLs.
-- **Webhook** – Saves each summary to a Notion database (subprocess isolation to avoid Windows SSL hangs).
-- **LangGraph** – Deterministic pipeline (search → summarize → webhook).
-- **UI** – Gradio app with a click‑to‑run button and real‑time timeline.
-
-👉 Code: https://github.com/Jihad-chaalan/ai-news-agent
+---
 
 ### 🎓 Internship Management System
+
 Multi-role Laravel app (Admins, Companies, Job Seekers, Universities) with Sanctum API authentication and React frontend.
 
+🔗 **Code:** [github.com/Jihad-chaalan/internship-management-system](https://github.com/Jihad-chaalan/internship-management-system)
 ---
 
 ## 📈 GitHub Stats
