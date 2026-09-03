@@ -77,7 +77,7 @@ A fully automated AI news platform that researches, ranks, summarises, illustrat
 - **7‑Day Retention** – Automatic cleanup of old briefings and images.
 - **Admin Panel** – Full CRUD with image upload, protected by `iron‑session`.
 
-🌐 **Website:** [[ai-daily-news.vercel.app](https://ai-news-lilac-five.vercel.app)  ]
+🌐 **Website:** [ai-daily-news.vercel.app](https://ai-news-lilac-five.vercel.app)
 📱 **Telegram:** [Join our group](https://t.me/+R6JQYLw8FbNlYmE0)  
 🔗 **Code:** [github.com/Jihad-chaalan/ai-news](https://github.com/Jihad-chaalan/ai-news)
 
