@@ -3,7 +3,7 @@
 
 <br/>
 
-**Full-stack developer** transitioning into AI engineering — building deployable systems with LLMs, RAG pipelines, and autonomous agents on top of solid Laravel & FastAPI backends.
+**Full-stack AI developer** — building deployable systems with LLMs, RAG pipelines, and autonomous agents on top of solid Next.js & FastAPI.
 
 <br/>
 
